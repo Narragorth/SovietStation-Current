@@ -6,30 +6,28 @@
 ######################################################################
 
 # Chief Admins
+
 FighterX2500	 - Monarch
-narragorth       - Executive Director
+Narragorth       - Executive Director
+ZayazBo          - Worshipful Admin 
 
 # Admins
-Vesthamer        - Admin Candidate
-sosiskoed        - Admin Candidate
-Hanter0718	 - Admin Candidate
-Zorghol          - Admin Candidate
-kjhkjhkjhkjh     - Admin Candidate
-Grekhem520       - Admin Candidate
-Elrondan         - Admin Candidate
-iliawhite	 - Admin Candidate
 
+Vesthamer        - Soviet General
+sosiskoed        - Admin
+Hanter0718	 - Admin
+Zorghol          - Admin
+kjhkjhkjhkjh     - Admin
+iliawhite	 - Admin
+Grekhem520       - Admin
+Elrondan	 - Admin
 
 # Moderators
-
-ITBlackwood      - Mentor
-Kirillwars       - Mentor
-XatapoN          - Mentor
-Bronepoezd       - Mentor
-Arhod            - Mentor
-Ceiling8cat      - Mentor
-FredFazBear      - Mentor
+wingman89 - Moderator
+#Админ-обсервер с правами ментора
+ITBlackwood      - Admin Observer
+fredFazBear      - Admin Observer
 
 # Others
-Adjutor	- HeadDev
-bradleyblya      - Event Master
+
+Adjutor	         - HeadDev
